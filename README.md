@@ -1,4 +1,6 @@
-# CertifiedSloperator
+<h1><div align="center">
+Certified Sloperator
+</div></h1>
 Just some markdown describing recent projects with coding agents.
 
 ## ChatGPT
@@ -179,7 +181,7 @@ A Python tool that extracts picklist values from Salesforce BusinessProcess reco
 ## Summary Statistics
 
 - **Total Projects:** 11 directories
-- **Languages Used:** Python (5), Rust (2), PowerShell (1), Ruby (1), DataWeave (1), Perl (1)
+- **Languages Used:** Python (5), Rust (2), GoLang (1), PowerShell (1), Ruby (1), DataWeave (1), Perl (1)
 - **Primary Domains:**
   - Salesforce automation & tooling (7 projects)
   - Okta integration & identity (3 projects)
